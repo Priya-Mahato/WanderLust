@@ -1,4 +1,4 @@
-# Wanderlust - An Airbnb Clone  
+# Wanderlust
 
 Welcome to Wanderlust, a modern web application inspired by Airbnb, offering a seamless browsing and booking experience for travelers worldwide. The platform is built using the latest web technologies and follows a robust architecture to ensure scalability, maintainability, and security.  
 
